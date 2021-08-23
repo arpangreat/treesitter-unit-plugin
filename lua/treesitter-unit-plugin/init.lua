@@ -42,11 +42,10 @@ M.change = function()
 end
 
 M.yank = function()
-  local node = get_master_node()
-  local bufnr = vim.api.nvim_get_current_buf()
-  
-  local node_txt = ts_utils.get_node_text(node, bufnr)
-  vim.api.
+  -- local node = get_master_node()
+  -- local bufnr = vim.api.nvim_get_current_buf()
+  --
+  -- local node_txt = ts_utils.get_node_text(node, bufnr)
 end
 
 return M
