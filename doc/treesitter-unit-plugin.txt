@@ -1,0 +1,5 @@
+# Treesitter-unit-plugin
+
+A treesitter plugin for use variuos things with treesitter units :)
+
+Author: ["Swastik Acharyya <arpangreat@github.com>"]
