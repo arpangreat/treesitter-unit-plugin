@@ -1,6 +1,8 @@
-========================================================================
-                                                  Treesitter-unit-plugin
+==============================================================================
+                                                      *treesitter-plugin-unit*
 
 A treesitter plugin for use variuos things with treesitter units :)
 
 Author: ["Swastik Acharyya <arpangreat@github.com>"]
+
+vim:tw=78:ts=8:ft=help:norl:
